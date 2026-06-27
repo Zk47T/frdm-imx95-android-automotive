@@ -454,3 +454,4 @@ issue (Mali is SoC-level). Check overlays:
 
 [MIT](LICENSE) — covers the guide, patches, and scripts in this repo only. The NXP BSP and
 the files these patches modify remain under NXP's own license; download them from NXP.
+
